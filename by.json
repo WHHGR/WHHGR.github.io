@@ -1,6 +1,13 @@
 {
   "sites": [
     {
+      "key": "drpy_js_豆瓣",
+      "name": "豆瓣[DRPY]",
+      "type": 3,
+      "api": "https://whhgr.github.io/drpy.js",
+      "ext": "https://whhgr.github.io/DR-JS/douban.js"
+    },
+    {
       "key": "drpy_js_360影视",
       "name": "360影视[DRPY]",
       "type": 3,
@@ -167,6 +174,20 @@
       "type": 3,
       "api": "https://whhgr.github.io/drpy.js",
       "ext": "https://whhgr.github.io/DR-JS/猫了个咪.js"
+    },
+    {
+      "key": "drpy_js_18av",
+      "name": "18av[DRPY]",
+      "type": 3,
+      "api": "https://whhgr.github.io/drpy.js",
+      "ext": "https://whhgr.github.io/DR-JS/18av.js"
+    },
+    {
+      "key": "drpy_js_养端",
+      "name": "养端[DRPY]",
+      "type": 3,
+      "api": "https://whhgr.github.io/drpy.js",
+      "ext": "https://whhgr.github.io/DR-JS/养端.js"
     },
     {
       "key": "drpy_js_喵喵",
