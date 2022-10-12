@@ -374,6 +374,40 @@
     "User-Agent": "Mozilla/5.0"
    }
   },
+  {
+   "name": "江湖1",
+   "url": "http://152.70.240.236:5705/parse/api/江湖.js?url=",
+   "type": 1,
+   "ext": {
+    "flag": [
+     "qiyi",
+     "imgo",
+     "爱奇艺",
+     "奇艺",
+     "qq",
+     "腾讯",
+     "youku",
+     "优酷",
+     "pptv",
+     "PPTV",
+     "letv",
+     "乐视",
+     "leshi",
+     "bilibili",
+     "哔哩哔哩",
+     "哔哩",
+     "mgtv",
+     "芒果",
+     "sohu",
+     "xigua",
+     "fun",
+     "风行"
+    ],
+    "header": {
+     "User-Agent": "Mozilla/5.0"
+    }
+   }
+  },
         {
             "name": "GGTV自用",
             "type": 1,
