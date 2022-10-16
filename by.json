@@ -15,6 +15,13 @@
       "ext": "https://whhgr.github.io/DR-JS/360影视.js"
     },
     {
+      "key": "drpy_js_低端影视",
+      "name": "低端影视[DRPY]",
+      "type": 3,
+      "api": "https://whhgr.github.io/drpy.js",
+      "ext": "https://whhgr.github.io/DR-JS/ddys.js"
+    },
+    {
       "key": "drpy_js_555影视",
       "name": "555影视[DRPY]",
       "type": 3,
